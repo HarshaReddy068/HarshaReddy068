@@ -1,3 +1,8 @@
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="MasterHead" style="width:100%, height:20%"/>
+
+<h1 align="center">Hi 👋, I'm Harsha</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 # 💫 About Me:
 👋 Hi, I’m Harsha vardhan Reddy<br>👀 I’m interested in web development and building full-stack applications.<br>🌱 I’m currently learning advanced concepts in React, Django, and backend integration with databases.<br>💞️ I’m looking to collaborate on web development projects..<br>😄 Pronouns: he/him.<br>⚡ Fun fact: I’m combining my frontend and backend skills to build seamless web applications!
 
